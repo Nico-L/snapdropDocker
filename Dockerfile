@@ -1,1 +1,1 @@
-FROM linuxserver/snapdrop:latest
+FROM lscr.io/linuxserver/snapdrop:latest
